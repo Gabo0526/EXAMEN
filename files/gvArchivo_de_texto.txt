@@ -1,0 +1,11 @@
+Cap, Geo, Tipo Arsenal
+8, GPS9, aaabbcd
+4, GPS4, acd
+1, GPS4, acd
+4, GPS5, bct
+1, GPS3, bcd
+1, GPS6, act
+2, GPS3, bcd
+5, GPS0, ab
+7, GPS1, bc
+1, GPS1, bc

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../lib/colores.h"
+#include "../lib/gvcolor.h"
 //#include <cstdlib> //Para exit(0), que es mejor que system("exit") -preguntar al profe por que-.
 using namespace std;
 int n;
